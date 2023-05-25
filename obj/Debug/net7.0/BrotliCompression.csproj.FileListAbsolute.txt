@@ -1,0 +1,15 @@
+C:\Dev_Blazor\BrotliCompression\bin\Debug\net7.0\BrotliCompression.exe
+C:\Dev_Blazor\BrotliCompression\bin\Debug\net7.0\BrotliCompression.deps.json
+C:\Dev_Blazor\BrotliCompression\bin\Debug\net7.0\BrotliCompression.runtimeconfig.json
+C:\Dev_Blazor\BrotliCompression\bin\Debug\net7.0\BrotliCompression.dll
+C:\Dev_Blazor\BrotliCompression\bin\Debug\net7.0\BrotliCompression.pdb
+C:\Dev_Blazor\BrotliCompression\obj\Debug\net7.0\BrotliCompression.csproj.AssemblyReference.cache
+C:\Dev_Blazor\BrotliCompression\obj\Debug\net7.0\BrotliCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev_Blazor\BrotliCompression\obj\Debug\net7.0\BrotliCompression.AssemblyInfoInputs.cache
+C:\Dev_Blazor\BrotliCompression\obj\Debug\net7.0\BrotliCompression.AssemblyInfo.cs
+C:\Dev_Blazor\BrotliCompression\obj\Debug\net7.0\BrotliCompression.csproj.CoreCompileInputs.cache
+C:\Dev_Blazor\BrotliCompression\obj\Debug\net7.0\BrotliCompression.dll
+C:\Dev_Blazor\BrotliCompression\obj\Debug\net7.0\refint\BrotliCompression.dll
+C:\Dev_Blazor\BrotliCompression\obj\Debug\net7.0\BrotliCompression.pdb
+C:\Dev_Blazor\BrotliCompression\obj\Debug\net7.0\BrotliCompression.genruntimeconfig.cache
+C:\Dev_Blazor\BrotliCompression\obj\Debug\net7.0\ref\BrotliCompression.dll
